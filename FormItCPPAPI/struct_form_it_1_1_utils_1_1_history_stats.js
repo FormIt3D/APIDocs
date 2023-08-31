@@ -1,0 +1,28 @@
+var struct_form_it_1_1_utils_1_1_history_stats =
+[
+    [ "TextureInfo", "struct_form_it_1_1_utils_1_1_history_stats_1_1_texture_info.html", "struct_form_it_1_1_utils_1_1_history_stats_1_1_texture_info" ],
+    [ "ReadHistory", "struct_form_it_1_1_utils_1_1_history_stats.html#af748029266deb4580cde28da1146aebe", null ],
+    [ "collapsedHistorySize", "struct_form_it_1_1_utils_1_1_history_stats.html#a884b863d73dbbb55b2b0a5ebc88413bb", null ],
+    [ "historyID", "struct_form_it_1_1_utils_1_1_history_stats.html#a2df2a6958c258a052d32deed5520b9c5", null ],
+    [ "historySize", "struct_form_it_1_1_utils_1_1_history_stats.html#abdf4edc046eb23b1ce9c0dab73de69b2", null ],
+    [ "nBodies", "struct_form_it_1_1_utils_1_1_history_stats.html#abd2e3ae563522926205fee5f0aec759e", null ],
+    [ "nDeltas", "struct_form_it_1_1_utils_1_1_history_stats.html#ace9025fe56340fbda4d4d111770b2510", null ],
+    [ "nEdges", "struct_form_it_1_1_utils_1_1_history_stats.html#a3fa7dbe87496a8c0becab29a7881e323", null ],
+    [ "nFaces", "struct_form_it_1_1_utils_1_1_history_stats.html#a11b599bea8675dfc70fa1c17faf11a95", null ],
+    [ "nGroupsContained", "struct_form_it_1_1_utils_1_1_history_stats.html#ad0ffcf413d0e91fd84ecace39f0e2d47", null ],
+    [ "nImages", "struct_form_it_1_1_utils_1_1_history_stats.html#a9de33be9b249b4fc659665b5f003e359", null ],
+    [ "nInstances", "struct_form_it_1_1_utils_1_1_history_stats.html#a561f1a4b358b0b1339c91a46ae94fa3a", null ],
+    [ "nInstancesContained", "struct_form_it_1_1_utils_1_1_history_stats.html#a76706e4ab2b10e3594377a87809f4b8c", null ],
+    [ "nLineMeshes", "struct_form_it_1_1_utils_1_1_history_stats.html#a22c253cb81d270e5aadac77f4f16b71a", null ],
+    [ "nMaterials", "struct_form_it_1_1_utils_1_1_history_stats.html#af6b435ea11c7c495adc4c19d5ff0d6ac", null ],
+    [ "nMeshes", "struct_form_it_1_1_utils_1_1_history_stats.html#ac40a3f7962ee235dfe2bcfa3490b5b9b", null ],
+    [ "nPointMeshes", "struct_form_it_1_1_utils_1_1_history_stats.html#a67360e2ea62d82606ca8953fd992a117", null ],
+    [ "nTextureBytes", "struct_form_it_1_1_utils_1_1_history_stats.html#afd71efb1304034c90c9c701ad670ae20", null ],
+    [ "nTextures", "struct_form_it_1_1_utils_1_1_history_stats.html#ad1c83f65f54ff00a4777eff1b30f177c", null ],
+    [ "nTriangles", "struct_form_it_1_1_utils_1_1_history_stats.html#aa89c26295d0155391c68252942a83256", null ],
+    [ "nVertices", "struct_form_it_1_1_utils_1_1_history_stats.html#a5e8ee1072d41256a6dc162818dbebce2", null ],
+    [ "referencedHistories", "struct_form_it_1_1_utils_1_1_history_stats.html#a83faabcc14244917c8e2adc79cef71fd", null ],
+    [ "textureInfo", "struct_form_it_1_1_utils_1_1_history_stats.html#a40ca5c2fe47d1329f3bc418df646b762", null ],
+    [ "totalCollapsedHistorySize", "struct_form_it_1_1_utils_1_1_history_stats.html#a3e2e17ec0b2e27f8aed2e2686ebc0bf9", null ],
+    [ "totalHistorySize", "struct_form_it_1_1_utils_1_1_history_stats.html#aa123796b916118ea28e699cfe0f5cbe7", null ]
+];

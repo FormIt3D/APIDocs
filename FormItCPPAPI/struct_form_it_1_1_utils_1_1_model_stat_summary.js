@@ -1,0 +1,26 @@
+var struct_form_it_1_1_utils_1_1_model_stat_summary =
+[
+    [ "Add", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a9416460ac7d8a29635113561bab15d04", null ],
+    [ "nImages", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a7a7126ce703dcf6575c42bb35a45ba8a", null ],
+    [ "nMaterials", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a5f46a781541c3835c76c914be4a91c3d", null ],
+    [ "nTextureBytes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a7069d7e95e1249b59d55e9ee276bfad5", null ],
+    [ "nTextures", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a86120f5b69b6ae83c9edd1e9a9704288", null ],
+    [ "nTotalBodies", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#ae0e76888d37347c39d6f77e46e95b1c4", null ],
+    [ "nTotalEdges", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#aaf780b8dd9090d677dd70f4f8485b739", null ],
+    [ "nTotalFaces", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a2549db21ff15e21228aaabee4df849d2", null ],
+    [ "nTotalLineMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#ab36848186a52dbaeefefa2088a66bf1e", null ],
+    [ "nTotalMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#af8e72535384ff764a128cf8725f2ff99", null ],
+    [ "nTotalPointMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#aae5e4c705dd379aac479afa337be895b", null ],
+    [ "nTotalTriangles", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a247055ac0ef7688a3e7979c0400793a0", null ],
+    [ "nTotalVertices", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a70704bf54c1c228be339c42c6ae6f310", null ],
+    [ "nUniqueBodies", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a6ab29328cef5d30a95e79e35016ad505", null ],
+    [ "nUniqueEdges", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a4e9f7aba0ef772cfbd173fdf612c3766", null ],
+    [ "nUniqueFaces", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a11fefddaf1f9b29f063652751f28e18a", null ],
+    [ "nUniqueLineMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a79e39dc5739d8de5989b67fd8f81c6b0", null ],
+    [ "nUniqueMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a3c2ddb69fe55c271f6bb7b98312716b3", null ],
+    [ "nUniquePointMeshes", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a45fdde5391ffe74c37e878f1730e92a6", null ],
+    [ "nUniqueTriangles", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#ac19146e7b16f9b5d352bf7333931e913", null ],
+    [ "nUniqueVertices", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a088f6f99f6aed7428dafcf01420ab04e", null ],
+    [ "totalCollapsedHistorySize", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a21e4995e6498903fbd7abca3a4994aec", null ],
+    [ "totalHistorySize", "struct_form_it_1_1_utils_1_1_model_stat_summary.html#a9ab688835d99c750858a0c9db01bbaac", null ]
+];
