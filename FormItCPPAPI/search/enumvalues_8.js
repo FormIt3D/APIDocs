@@ -1,21 +1,7 @@
 var searchData=
 [
-  ['import',['Import',['../group__mod__formitcore__files__api__ref.html#gga16592b71f962b33f6054b4b9e789a616a72d6d7a1885885bb55a565fd1070581a',1,'FormIt::Files']]],
-  ['import_5f3d_5fmodel',['IMPORT_3D_MODEL',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1ae4d1e8938502134a1449ab15b0cc37dd',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5faxm',['IMPORT_3D_MODEL_LOCAL_AXM',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a2ddfc9c72552d742eb5300072834add1',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5faxmb',['IMPORT_3D_MODEL_LOCAL_AXMB',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1ae75c34e2d89fa793960e52afbd9b9420',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5faxmf',['IMPORT_3D_MODEL_LOCAL_AXMF',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a0b9a8c28e910db03b5e1b03bfa1b9e8c',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5fdwg',['IMPORT_3D_MODEL_LOCAL_DWG',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1aeea477945321f8cb427391be226a7542',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5ffbx',['IMPORT_3D_MODEL_LOCAL_FBX',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1acc81583908ea6fc52fe426fc1c559958',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5fobj',['IMPORT_3D_MODEL_LOCAL_OBJ',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a8ea810c2ec569ad8dcefbb76d85d8c49',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5fsat',['IMPORT_3D_MODEL_LOCAL_SAT',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1aeabef6053204d88a0d35dfab492da995',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5fskp',['IMPORT_3D_MODEL_LOCAL_SKP',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a7a05f4b940141ea364aa98e39bffc3de',1,'FormIt::Statistics']]],
-  ['import_5f3d_5fmodel_5flocal_5fstl',['IMPORT_3D_MODEL_LOCAL_STL',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a74982ea5875a4a878d111cf761747ec1',1,'FormIt::Statistics']]],
-  ['import_5flocal',['IMPORT_LOCAL',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a07e8ba781e4f5a3f53fc9689f887e0a9',1,'FormIt::Statistics']]],
-  ['import_5fmaterial',['IMPORT_MATERIAL',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1a47148d6ec9a0712e7e2dd746fd36697f',1,'FormIt::Statistics']]],
-  ['import_5fmodel_5fcloud',['IMPORT_MODEL_CLOUD',['../namespace_form_it_1_1_statistics.html#a24c306edea86e2b66e8fa7befb1033e1ada9123761b598caf1f20babd4cfd6423',1,'FormIt::Statistics']]],
-  ['information',['Information',['../namespace_form_it.html#afb5a97d90622ea05a439c322a6bab524aa82be0f551b8708bc08eb33cd9ded0cf',1,'FormIt']]],
-  ['internalerror',['InternalError',['../namespace_form_it_1_1_forge.html#ab6a3413ca45ae84ab53747e11a07613cab564a64898e94b8ac5d31e716e4bee1c',1,'FormIt::Forge']]],
-  ['intersect',['INTERSECT',['../namespace_form_it.html#aa9da6f100181b885662ea3656f6c97d5a24bdbe2bcaf533b7b3f0bd58bfa7f291',1,'FormIt']]],
-  ['intersect_5fcontextmenu',['INTERSECT_CONTEXTMENU',['../namespace_form_it.html#aa9da6f100181b885662ea3656f6c97d5af523ce3e011cd0627ba629f2ccf685da',1,'FormIt']]]
+  ['information_0',['Information',['../namespace_form_it.html#afb5a97d90622ea05a439c322a6bab524aa82be0f551b8708bc08eb33cd9ded0cf',1,'FormIt']]],
+  ['internalerror_1',['InternalError',['../namespace_form_it_1_1_forge.html#ab6a3413ca45ae84ab53747e11a07613cab564a64898e94b8ac5d31e716e4bee1c',1,'FormIt::Forge']]],
+  ['intersect_2',['INTERSECT',['../namespace_form_it.html#aa9da6f100181b885662ea3656f6c97d5a24bdbe2bcaf533b7b3f0bd58bfa7f291',1,'FormIt']]],
+  ['intersect_5fcontextmenu_3',['INTERSECT_CONTEXTMENU',['../namespace_form_it.html#aa9da6f100181b885662ea3656f6c97d5af523ce3e011cd0627ba629f2ccf685da',1,'FormIt']]]
 ];

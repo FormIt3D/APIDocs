@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['primitive_20shortcut_20command_20strings',['Primitive Shortcut Command Strings',['../group__mod__formit__core__primitive__sc.html',1,'']]]
+  ['group_20shortcut_20command_20strings_0',['Group Shortcut Command Strings',['../group__mod__formit__core__group__sc.html',1,'']]]
 ];

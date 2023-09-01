@@ -1,33 +1,65 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
       crossorigin="anonymous"
     />
+    <title>FormIt API Documentation</title>
+    <link rel="icon" type="image/png" href="icons/app-icon-192.png" sizes="192x192"/>
+    <link rel="apple-touch-icon" type="image/png" href="icons/touch-icon-180.png"/>
+    <link rel="icon" type="image/svg+xml" href="icons/favicon.svg"/>
+    <style>
+      @media (prefers-color-scheme: light) {
+        #Logo {
+            filter: brightness(0) invert(0);
+        }
+      }
+    </style>
+    <script>
+      // OS Dark theme toggler
+      (() => {
+        'use strict'
+
+        const getPreferredTheme = () => {
+          return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        }
+
+        const setTheme = theme => {
+          document.documentElement.setAttribute('data-bs-theme', theme)
+        }
+
+        setTheme(getPreferredTheme())
+
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+          setTheme(getPreferredTheme())
+        })
+      })()
+    </script>
   </head>
   <body>
     <div class="container">
       <header class="mb-4 border-bottom py-4">
-        <img alt="Logo" src="Autodesk_logo_web.png" />
+        <a href="https://www.autodesk.com/">
+          <img id="Logo" src="Autodesk_logo_web.svg" />
+        </a>
       </header>
       <h1>FormIt APIs</h1>
       <p>To access FormIt's API documentation, use the following links:</p>
       <ul>
         <li>
-          <a href="./FormItWSMAPI/index.html" target="_blank"
-            >Web Sketch Modeler (WSM) API</a
-          >
+          <a href="FormItWSMAPI/index.html">
+            Web Sketch Modeler (WSM) API
+          </a>
         </li>
         <li>
-          <a href="./FormItJSAPI/index.html" target="_blank">
+          <a href="FormItJSAPI/index.html">
             FormIt Plugin (JS) API
           </a>
         </li>
         <li>
-          <a href="./FormItCPPAPI/index.html" target="_blank">
+          <a href="FormItCPPAPI/index.html">
             FormIt C++ API
           </a>
         </li>

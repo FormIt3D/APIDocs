@@ -10,7 +10,7 @@ var class_w_s_m_1_1_utils_1_1_history_objects =
     [ "HistoryObjects", "class_w_s_m_1_1_utils_1_1_history_objects.html#ab814a344c8ce0eb15713370505064f5b", null ],
     [ "Clear", "class_w_s_m_1_1_utils_1_1_history_objects.html#a71612fb927fe3980c556109ad8a87e7e", null ],
     [ "GetHistory", "class_w_s_m_1_1_utils_1_1_history_objects.html#a68296277094b8d84fd12cc692b8b948b", null ],
-    [ "HasHistory", "class_w_s_m_1_1_utils_1_1_history_objects.html#ac362be9390057a96d5e2022dee74702d", null ],
+    [ "HasHistory", "class_w_s_m_1_1_utils_1_1_history_objects.html#ac6796b86abacdf22979af98c863522dd", null ],
     [ "HasSameHistory", "class_w_s_m_1_1_utils_1_1_history_objects.html#ab2843893fa39f65460cd1410785a18b8", null ],
     [ "IsAlive", "class_w_s_m_1_1_utils_1_1_history_objects.html#aeeca5252efcac2edac511adc68afd743", null ],
     [ "operator GroupInstancePath const &", "class_w_s_m_1_1_utils_1_1_history_objects.html#ad7c1dc1e6b403a17cfec1bb9b7ec5202", null ],
@@ -18,10 +18,10 @@ var class_w_s_m_1_1_utils_1_1_history_objects =
     [ "operator ObjectHistoryID const &", "class_w_s_m_1_1_utils_1_1_history_objects.html#ad58dc651e1bc488267ef7e47c0d928ef", null ],
     [ "operator ObjectHistoryIDArray const &", "class_w_s_m_1_1_utils_1_1_history_objects.html#aa476a34cdecda3802b0e24c8d3437f19", null ],
     [ "operator ObjectIDArray const &", "class_w_s_m_1_1_utils_1_1_history_objects.html#acaa0ec6c71600a229e28cf3e5ad1a050", null ],
-    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#a34b337b58a678d02a5203e537501f423", null ],
-    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#a921a07323338f7858fc2ccbfe89a968c", null ],
-    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#adff2cba67c64e617d132f53ca9871227", null ],
-    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#a03235e577276512ef1ff87f448e9532b", null ],
+    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#afc229587c58cbba0f5f5f356eb86613b", null ],
+    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#a561bb416498e7d6cf92e406403d9d3a7", null ],
+    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#afb8fbab1e52c0b02970c296ef5283625", null ],
+    [ "operator=", "class_w_s_m_1_1_utils_1_1_history_objects.html#a054741a49b5b0a8f0e797652a59e3ef0", null ],
     [ "operator==", "class_w_s_m_1_1_utils_1_1_history_objects.html#a8c28fd9535f00d35d140691f69d533c4", null ],
     [ "SetGroupInstancePath", "class_w_s_m_1_1_utils_1_1_history_objects.html#a7191b772365f10d58ae9b0be1cd9fa07", null ]
 ];

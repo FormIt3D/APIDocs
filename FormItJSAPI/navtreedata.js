@@ -1,18 +1,33 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "FormIt Plugin API", "index.html", [
-    [ "FormIt Plugin API Documentation", "index.html", [
-      [ "FormIt Plugin API Documentation ", "index.html#s_mainpage_overview_patch", [
-        [ "Contents ", "index.html#s_jsapi_doc_contents", null ],
-        [ "Third-Party Software Credits and Attributions ", "index.html#s_jsapi_3rdparty_credits", [
-          [ "FormIt Third-party Software", "index.html#s_jsapi_3rdparty_credits_formit", null ],
-          [ "WSM Third-party Software", "index.html#s_jsapi_3rdparty_credits_wsm", null ]
-        ] ]
-      ] ]
-    ] ],
-    [ "Modules", "modules.html", "modules" ],
-    [ "Namespaces", null, [
-      [ "Namespace List", "namespaces.html", "namespaces" ],
+    [ "FormIt Plugin API Documentation", "index.html", "index" ],
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
         [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
@@ -41,12 +56,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"group__mod__jsapi__formit__events.html#gaf6575c8d3ecd36a767fab7f120ffbc74",
-"group__mod__jsapi__formit__sketchmaterials.html#gadfe049050276fbe48d480f1cce65c801",
-"group__mod__jsapi__wsm.html#ga61d39c451214ee5ca686ad2cff07b41a",
-"group__mod__jsapi__wsm__inferenceengine.html#gabed7f76d1fb505066de3bd98eb1cfc7a",
-"index.html#s_jsapi_3rdparty_credits"
+"annotated.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,6 +1,6 @@
 var struct_form_it_1_1k_material_picked_type =
 [
     [ "Payload", "struct_form_it_1_1k_material_picked_type.html#a32c7b22c79f4ccb21b544423d78d38a7", null ],
-    [ "extract", "struct_form_it_1_1k_material_picked_type.html#a54ab88c5b68246de37f3cf3d79eb6a1e", null ],
-    [ "message", "struct_form_it_1_1k_material_picked_type.html#a6bf70d0e0c9595e9f4dfdd958f34482e", null ]
+    [ "extract", "struct_form_it_1_1k_material_picked_type.html#a379088a8bbcf31165699114a4fba145d", null ],
+    [ "message", "struct_form_it_1_1k_material_picked_type.html#a688087658c09c4d94e0e5dcb125a998b", null ]
 ];

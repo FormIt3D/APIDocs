@@ -1,0 +1,27 @@
+var class_w_s_m_1_1_quaternion3d =
+[
+    [ "Quaternion3d", "class_w_s_m_1_1_quaternion3d.html#aaad34600fdee18457f2006dc78dbb19d", null ],
+    [ "Quaternion3d", "class_w_s_m_1_1_quaternion3d.html#a34b2dce592bb3ff8117f249b571ba008", null ],
+    [ "fromEulerAngles", "class_w_s_m_1_1_quaternion3d.html#aad1f38ddf9741eb921bcd07b9b6ac4a0", null ],
+    [ "fromRotation", "class_w_s_m_1_1_quaternion3d.html#a20c8f6888b92b37ddbe8cd5a00e21626", null ],
+    [ "fromThreeVectors", "class_w_s_m_1_1_quaternion3d.html#aa192f46863d663924c4c403431dc6fdb", null ],
+    [ "fromTwoVectors", "class_w_s_m_1_1_quaternion3d.html#a6b096fab5a6c9ebd48899cee37a668be", null ],
+    [ "getEulerAngles", "class_w_s_m_1_1_quaternion3d.html#acda5601577bbd24e72c5a3176befa903", null ],
+    [ "getInverted", "class_w_s_m_1_1_quaternion3d.html#a03268c14f421929dd73142afbc0ad771", null ],
+    [ "getRotation", "class_w_s_m_1_1_quaternion3d.html#a62f9640b1da16232d0659e57f9837406", null ],
+    [ "getTransf3d", "class_w_s_m_1_1_quaternion3d.html#ab9a6d81bb8e4ce27f4e180eda293003d", null ],
+    [ "identity", "class_w_s_m_1_1_quaternion3d.html#a234975e744f8373ffa67438eeaf38f14", null ],
+    [ "invert", "class_w_s_m_1_1_quaternion3d.html#ad46782c2bcf8a482348477f4d2222cf6", null ],
+    [ "invertFrom", "class_w_s_m_1_1_quaternion3d.html#a13d52eebafafba4890f229c4d8cd8045", null ],
+    [ "normalize", "class_w_s_m_1_1_quaternion3d.html#ad105b399de6d88bd435aa0e5ba8a0ec7", null ],
+    [ "operator!=", "class_w_s_m_1_1_quaternion3d.html#a70d2a3ea23103b334ab25115ccd17968", null ],
+    [ "operator*", "class_w_s_m_1_1_quaternion3d.html#a12a23b9cd3eb75e8f3bd0a814f72a8c7", null ],
+    [ "operator*", "class_w_s_m_1_1_quaternion3d.html#a720bcaf5c710b9061d8d6735412eaecc", null ],
+    [ "operator*=", "class_w_s_m_1_1_quaternion3d.html#a692ef6cc40c24dcc99191b88794152e6", null ],
+    [ "operator==", "class_w_s_m_1_1_quaternion3d.html#a975b4e70b7a0704cb36822460fc000f2", null ],
+    [ "set", "class_w_s_m_1_1_quaternion3d.html#a799fb1fb22190571527399d6678c9f92", null ],
+    [ "w", "class_w_s_m_1_1_quaternion3d.html#a0fa2341876e78507b81c0255744d3943", null ],
+    [ "x", "class_w_s_m_1_1_quaternion3d.html#ae8c710405daf5f9cb1f3ef7a201a385d", null ],
+    [ "y", "class_w_s_m_1_1_quaternion3d.html#a3d075c245c9f56e6f06262981f736613", null ],
+    [ "z", "class_w_s_m_1_1_quaternion3d.html#a269b4c8a555ca35b4cc3bc0874099381", null ]
+];

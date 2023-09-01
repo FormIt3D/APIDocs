@@ -1,29 +1,47 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "FormIt C++ API", "index.html", [
-    [ "FormIt API Documentation", "index.html", [
-      [ "FormIt API Documentation ", "index.html#s_mainpage_overview_patch", [
-        [ "Contents ", "index.html#s_formit_doc_contents", null ],
-        [ "Third-Party Software Credits and Attributions ", "index.html#s_formit_3rdparty_credits", null ]
-      ] ]
-    ] ],
+    [ "FormIt API Documentation", "index.html", "index" ],
     [ "Getting Started with FormIt", "pg_getting_started.html", [
-      [ "Getting Started ", "pg_getting_started.html#s_getting_started_patch", [
-        [ "Download ", "pg_getting_started.html#s_download", [
+      [ "Getting Started", "pg_getting_started.html#s_getting_started_patch", [
+        [ "Download", "pg_getting_started.html#s_download", [
           [ "Supported Platforms", "pg_getting_started.html#s_supported_platforms", null ]
         ] ],
-        [ "Building Applications ", "pg_getting_started.html#s_building_apps", [
+        [ "Building Applications", "pg_getting_started.html#s_building_apps", [
           [ "Include FormIt", "pg_getting_started.html#s_formit_includes", null ],
           [ "Link with FormIt", "pg_getting_started.html#s_formit_linking", null ]
         ] ],
-        [ "API Overview ", "pg_getting_started.html#s_formit_api_overview", null ],
-        [ "Sample Code ", "pg_getting_started.html#s_formit_sample_code", null ]
+        [ "API Overview", "pg_getting_started.html#s_formit_api_overview", null ],
+        [ "Sample Code", "pg_getting_started.html#s_formit_sample_code", null ]
       ] ]
     ] ],
     [ "FormIt Core API Reference List", "group__mod__formitcore__api__ref.html", null ],
-    [ "Modules", "modules.html", "modules" ],
-    [ "Namespaces", null, [
-      [ "Namespace List", "namespaces.html", "namespaces" ],
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
         [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
@@ -44,11 +62,11 @@ var NAVTREE =
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
         [ "Enumerator", "functions_eval.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
@@ -63,27 +81,22 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_color_8h.html",
-"_form_it_core_a_p_i_d_l_l_8h.html#ga7339aa153c1906ea3ebdfff4169af82e",
-"_form_it_core_a_p_i_d_l_l_8h.html#gafd7129d2a594f3279d09ba838f05d5d0",
-"_form_it_core_shortcuts_8h.html#ga466498079b33d1226c15e0e9998ce04a",
-"_form_it_core_types_8h.html#a24c306edea86e2b66e8fa7befb1033e1aed6b753c7f43938b35937544ecc8f2c8",
-"_form_it_core_types_8h.html#ad0fceef1fc4cf365114b930d41b25313a9c66248a1c82c86fe32ea394b79ca3f4",
-"_w_s_m___constants_8h.html#ga67b2c5ca24ea3f9578949e26d4203f10",
-"_w_s_m_api_8h.html#ga7d29da97c415e80da38b73c257df560c",
-"class_form_it_1_1_sun_location_data.html#ae64cb2014a03943f3f7829020f34ad11",
-"class_w_s_m_1_1_point2d.html#a49ea358611256f1b01a413a09de8b3d7",
-"class_w_s_m_1_1_transf3d.html#ac5baf3bc177da82c78cef8a5462f9129",
-"class_w_s_m_1_1_vector3d.html#a25a7ca020786b3c2af2d8ce210d3decc",
-"group__mod__formit__core__tools__sc.html#ga9435279fe92568a54093892daf7756ef",
-"group__mod__formitcore__imagemanager__api__ref.html#ga516ff5c5c0e104f0ad4d903c1c6a10a1",
-"group__mod__formitcore__sunandlocation__api__ref.html#gad23403a379e6957f9054e378625de0bd",
-"group__mod__wsm__api__ref.html#ga5b7390dbf525bd78b24cc73d01e4b772",
-"group__mod__wsm__api__ref.html#ggae8d1bf12a4f675d918f67e122218c71ea3f20945f2391808a232e36e3b6022e5e",
-"struct_form_it_1_1_auto_save_1_1_config.html#afe26183d1e29d717751759e72859e3b3",
-"struct_form_it_1_1_undo_management_1_1_history_i_d.html#ab5a3d80e9b86a2ca98764fededabaf88",
-"struct_form_it_1_1k_graphics_factory_marker_set_visible_type.html#abf3e792bcffe8544c2aca6cceef7f80a",
-"struct_form_it_1_1k_satellite_image_is_hidden_type.html#ad6f069ee1323a6f710653d7211a16273",
-"struct_w_s_m_1_1_a_t_f_camera_data.html#a7cb9d497a61e724674bc9631be4005ea"
+"_form_it_core_types_8h.html#a373067d254e061b570ac2e7a3fded50d",
+"_form_it_core_types_8h.html#ad2215bcd7d7391a6d0342b47708ff73e",
+"class_form_it_1_1_level_data.html#ac80a0a4b466fe80df241ea7c54c9783d",
+"class_w_s_m_1_1_utils_1_1_history_objects.html#a138e69d8c4e67bf6bf0d1d8cbeb2e933",
+"class_w_s_m_1_1_utils_1_1_ray_fire_filter_hidden_or_sectioned.html#a7d95be879aa72389f651f7b27c98554a",
+"namespace_form_it.html#a5e28d883a270b91204f342d27bb8a140a684d325a7303f52e64011467ff5c5758",
+"namespace_form_it.html#ad0fceef1fc4cf365114b930d41b25313abfd1f0991972878276eabd7b3d528d40",
+"namespace_w_s_m_1_1_utils.html#a227d73790093460cb28d102528f72e0c",
+"struct_form_it_1_1_collaboration_1_1_user_info.html",
+"struct_form_it_1_1_save_information.html#aaab379eea674709354d6c66eb74268baacd885aeb36da4b6669e221674e9058d7",
+"struct_form_it_1_1_utils_1_1_model_stat_summary.html#a2549db21ff15e21228aaabee4df849d2",
+"struct_form_it_1_1k_dismiss_progress_u_i_type.html",
+"struct_form_it_1_1k_image_changed_type.html#a6db886a8844fdf540f32bca97c8e4564",
+"struct_form_it_1_1k_placement_tool_transform_type.html",
+"struct_form_it_1_1k_send_to_revit_preview_changed_type.html#a79f9fe3152b9bf3ccf0bfe72ddea4c44",
+"struct_form_it_1_1k_tool_removed_type.html#ad4792fcce166944abf71da2f3152b331"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

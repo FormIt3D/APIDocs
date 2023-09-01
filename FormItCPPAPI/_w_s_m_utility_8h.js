@@ -1,9 +1,9 @@
 var _w_s_m_utility_8h =
 [
-    [ "MaterialData", "class_w_s_m_1_1_utils_1_1_material_data.html", "class_w_s_m_1_1_utils_1_1_material_data" ],
-    [ "MeshData", "class_w_s_m_1_1_utils_1_1_mesh_data.html", "class_w_s_m_1_1_utils_1_1_mesh_data" ],
-    [ "MeshesAndTransformsData", "class_w_s_m_1_1_utils_1_1_meshes_and_transforms_data.html", "class_w_s_m_1_1_utils_1_1_meshes_and_transforms_data" ],
-    [ "ComputeGeometryFromLevels", "_w_s_m_utility_8h.html#ac50258733158543741bdc4185d716689", null ],
+    [ "WSM::Utils::MaterialData", "class_w_s_m_1_1_utils_1_1_material_data.html", "class_w_s_m_1_1_utils_1_1_material_data" ],
+    [ "WSM::Utils::MeshData", "class_w_s_m_1_1_utils_1_1_mesh_data.html", "class_w_s_m_1_1_utils_1_1_mesh_data" ],
+    [ "WSM::Utils::MeshesAndTransformsData", "class_w_s_m_1_1_utils_1_1_meshes_and_transforms_data.html", "class_w_s_m_1_1_utils_1_1_meshes_and_transforms_data" ],
+    [ "ComputeGeometryFromLevels", "_w_s_m_utility_8h.html#a0ac4faddbdcbeaeb1cbe92fe0bc3c486", null ],
     [ "ComputeUVsForMeshData", "_w_s_m_utility_8h.html#a27544c364f79359c2b61aeb044b34db5", null ],
     [ "CreateAlignedAndCenteredGroup", "_w_s_m_utility_8h.html#a04438813a823b979d877ff415236e87d", null ],
     [ "CreateBoundingLineMesh", "_w_s_m_utility_8h.html#abaf93cd5eb10b76f8ce00c03f00be29b", null ],

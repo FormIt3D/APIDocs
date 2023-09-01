@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getting_20started_20with_20formit',['Getting Started with FormIt',['../pg_getting_started.html',1,'']]]
+  ['api_20documentation_0',['FormIt API Documentation',['../index.html',1,'']]]
 ];

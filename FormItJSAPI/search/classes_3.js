@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ignoreobjects',['IgnoreObjects',['../class_ignore_objects.html',1,'']]]
+  ['ignoreobjects_0',['IgnoreObjects',['../class_ignore_objects.html',1,'']]]
 ];

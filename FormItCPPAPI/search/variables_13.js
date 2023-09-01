@@ -1,13 +1,10 @@
 var searchData=
 [
-  ['texture_5ffile_5fversion',['TEXTURE_FILE_VERSION',['../group__mod__wsm__api__ref.html#ga2206ac627cc07d376d964c048c7086bc',1,'WSM']]],
-  ['texture_5fpng_5ffile_5fversion',['TEXTURE_PNG_FILE_VERSION',['../group__mod__wsm__api__ref.html#ga310a3b552e4e91a55ae2ad8b8a7f0afb',1,'WSM']]],
-  ['textureinfo',['textureInfo',['../struct_form_it_1_1_utils_1_1_history_stats.html#a40ca5c2fe47d1329f3bc418df646b762',1,'FormIt::Utils::HistoryStats']]],
-  ['thumbnailpath',['thumbnailPath',['../struct_form_it_1_1_forge_1_1_file_info.html#a1b93292873446fc2382ee0b9468daf57',1,'FormIt::Forge::FileInfo']]],
-  ['timeout',['timeout',['../struct_form_it_1_1_forge_1_1_u_i_1_1_message.html#a104d0cb08dc2b903790823f33a3d652d',1,'FormIt::Forge::UI::Message']]],
-  ['timestamp',['timestamp',['../struct_form_it_1_1_version.html#a60490e25558197f7f4a01349d8ba97f1',1,'FormIt::Version']]],
-  ['toplevelhistory',['topLevelHistory',['../struct_form_it_1_1_load_complete_data.html#a346fd46e31e9004c71105126dd34f05f',1,'FormIt::LoadCompleteData']]],
-  ['totalcollapsedhistorysize',['totalCollapsedHistorySize',['../struct_form_it_1_1_utils_1_1_history_stats.html#a3e2e17ec0b2e27f8aed2e2686ebc0bf9',1,'FormIt::Utils::HistoryStats::totalCollapsedHistorySize()'],['../struct_form_it_1_1_utils_1_1_model_stat_summary.html#a21e4995e6498903fbd7abca3a4994aec',1,'FormIt::Utils::ModelStatSummary::totalCollapsedHistorySize()']]],
-  ['totalhistorysize',['totalHistorySize',['../struct_form_it_1_1_utils_1_1_history_stats.html#aa123796b916118ea28e699cfe0f5cbe7',1,'FormIt::Utils::HistoryStats::totalHistorySize()'],['../struct_form_it_1_1_utils_1_1_model_stat_summary.html#a9ab688835d99c750858a0c9db01bbaac',1,'FormIt::Utils::ModelStatSummary::totalHistorySize()']]],
-  ['type',['type',['../struct_form_it_1_1_files_1_1_file_options.html#a88cce899b499c0ddf77c80418c228df9',1,'FormIt::Files::FileOptions::type()'],['../struct_form_it_1_1_forge_1_1_project_info.html#a76882f7b2ca6f8fde038350190f10a86',1,'FormIt::Forge::ProjectInfo::type()'],['../struct_form_it_1_1_forge_1_1_hub_info.html#a2382f43589f5e7dab5631ce216f36791',1,'FormIt::Forge::HubInfo::type()'],['../struct_form_it_1_1_forge_1_1_element_info.html#ac1305187c5e7be1caf232df3116face6',1,'FormIt::Forge::ElementInfo::type()'],['../struct_form_it_1_1_forge_1_1_u_i_1_1_message.html#a7c3ba4860727fa0001eb6fe6bc20078d',1,'FormIt::Forge::UI::Message::type()']]]
+  ['unused_5findex_0',['unused_index',['../group__mod__formitcore__undomanagement__api__ref.html#gadaac9020661d6ea564d0ae5b374161c3',1,'FormIt::UndoManagement::UNUSED_INDEX'],['../group__mod__wsm__api__ref.html#gae4863bfe688af03e11fe3b8b24b4dded',1,'WSM::UNUSED_INDEX']]],
+  ['upload_1',['upload',['../struct_form_it_1_1_forge_1_1_permissions_info.html#a6a3edde125b9de8af51529d26e119b5f',1,'FormIt::Forge::PermissionsInfo']]],
+  ['upper_2',['upper',['../class_w_s_m_1_1_interval2d.html#a825122fefe3b0bd62fce3f48f560eebf',1,'WSM::Interval2d::upper'],['../class_w_s_m_1_1_interval3d.html#a198cd40c27f4fe22d11f42a7985dedf1',1,'WSM::Interval3d::upper']]],
+  ['userfirstname_3',['userFirstName',['../struct_form_it_1_1_collaboration_1_1_user_info.html#a1086c9ca9cec1b2a1a03d8b434c30a9a',1,'FormIt::Collaboration::UserInfo']]],
+  ['userid_4',['userid',['../struct_form_it_1_1_collaboration_1_1_user_info.html#a59283b02b80637b88e2ebaa6b363643d',1,'FormIt::Collaboration::UserInfo::userId'],['../struct_form_it_1_1_collaboration_1_1_chat_message.html#a5dc4b11cda0f7c7990eddec5ee703e0c',1,'FormIt::Collaboration::ChatMessage::userId']]],
+  ['userlastname_5',['userLastName',['../struct_form_it_1_1_collaboration_1_1_user_info.html#a47e4542d96a28832f4ced44560ec7c5f',1,'FormIt::Collaboration::UserInfo']]],
+  ['username_6',['userName',['../struct_form_it_1_1_collaboration_1_1_chat_message.html#a22ba02484f31ab4b979feb1eebb261e0',1,'FormIt::Collaboration::ChatMessage']]]
 ];
