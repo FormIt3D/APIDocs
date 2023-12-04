@@ -1,7 +1,5 @@
-@media (prefers-color-scheme: light) {
-  html:not(.dark-mode) #projectlogo img {
-      filter: brightness(0) invert(0);
-  }
+html:not(.dark-mode) #projectlogo img {
+    filter: brightness(0) invert(0);
 }
 
 pre.fragment {
