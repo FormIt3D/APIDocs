@@ -2,7 +2,7 @@
 WSM and FormIt API documentation
 
 # Generating Documentation
-Follow directions from https://git.autodesk.com/FormIt360/FormIt360/tree/master/Tools/Doxygen to install the necessary python requirements to run doxygen. (Note: The most recent doxygen version as of this writing used to generate docs was 1.9.8)
+Follow directions from https://github.com/spacemakerai/FormIt/tree/main/Tools/Doxygen to install the necessary python requirements to run doxygen. (Note: The most recent doxygen version as of this writing used to generate docs was 1.9.8)
 
 Run the following documentation sets:
 ```
